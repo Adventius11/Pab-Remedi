@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327607791924",
+    "project_id": "space-news-core-fefc0",
+    "storage_bucket": "space-news-core-fefc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327607791924:android:2b4a6a7535c8dead777561",
+        "android_client_info": {
+          "package_name": "com.example.advent_remed_pab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARe3eu-_Jmz_hRzLlZgqnxABYmtZyKfgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
